@@ -1,5 +1,5 @@
 <?php
-
+// Tempatkan file kode ini di dalam folder projek-laravel\App\Http\Controllers
 namespace App\Http\Controllers;
 
 use App\Models\Projek; 
