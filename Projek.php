@@ -1,6 +1,5 @@
-// Tempatkan file kode ini di dalam folder projek-laravel\App\Models
 <?php
-
+// Tempatkan file kode ini di dalam folder projek-laravel\App\Models
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
