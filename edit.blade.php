@@ -1,3 +1,4 @@
+<!-- Tempatkan file kode ini di dalam folder projek-laravel\resources\views\projek -->
 <!DOCTYPE html>
 <html>
 <head>
