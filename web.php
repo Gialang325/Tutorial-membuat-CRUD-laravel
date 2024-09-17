@@ -1,5 +1,5 @@
 <?php
-
+// Tempatkan file kode ini di dalam folder projek-laravel\Routes
 use App\Http\Controllers\projekcontroller;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
