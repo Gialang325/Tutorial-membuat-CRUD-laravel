@@ -1,3 +1,4 @@
+// Tempatkan file kode ini di dalam folder projek-laravel\App\Models
 <?php
 
 namespace App\Models;
