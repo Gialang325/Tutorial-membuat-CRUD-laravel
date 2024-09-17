@@ -1,3 +1,4 @@
+// Tempatkan file kode ini di dalam folder projek-laravel\database\migrations
 <?php
 
 use Illuminate\Database\Migrations\Migration;
