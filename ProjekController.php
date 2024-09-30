@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Storage;
 
-class projekcontroller extends Controller
+class ProjekController extends Controller
 {
     public function index() : View
     {
